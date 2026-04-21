@@ -2,14 +2,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=AI+Engineering+Student;Machine+Learning+Enthusiast;Computer+Vision+Developer" alt="Typing SVG" />
 </div>
 
-#  Hi, I'm Farah Taghi
+# 👋 Hi, I'm Farah Taghi  
 
 🎓 **AI Engineering Student** @ ENIAD (École Nationale de l'Intelligence Artificielle et du Digital)  
-🔬 Specializing in **Machine Learning, Deep Learning & Computer Vision**  
+🔬 Passionate about **Machine Learning, Deep Learning & Computer Vision**  
+🚗 Currently working on **ADAS systems** and **RAG-based intelligent tutoring**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,30 +33,30 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects  
 
 ### 🚗 [ADAS: Traffic Sign Recognition & Lane Detection](https://github.com/taghifarah02/ADAS-Project)
-Deep Learning-based Advanced Driver Assistance System
-- 🎯 **99.5% accuracy** on traffic sign recognition (43 classes)
-- 🛣️ Real-time lane detection using Canny Edge Detection
-- 🎮 CARLA Simulator integration for realistic testing
-- **Tech**: PyTorch, OpenCV, NumPy, CARLA
+Deep Learning-based Advanced Driver Assistance System  
+- 🎯 **99.5% accuracy** on traffic sign recognition (43 classes)  
+- 🛣️ Real-time lane detection using Canny Edge Detection  
+- 🎮 CARLA Simulator integration for realistic testing  
+- **Tech**: PyTorch, OpenCV, NumPy, CARLA  
 
 ### 🤖 [RAG-based Intelligent Tutor](https://github.com/taghifarah02/RAG-Tutor)
-Desktop application with LLM-powered Q&A system
-- 💬 Natural language understanding with RAG architecture
-- 📚 Context-aware question answering
-- **Tech**: Electron.js, Python, NLP, LangChain
+Desktop application with LLM-powered Q&A system  
+- 💬 Natural language understanding with RAG architecture  
+- 📚 Context-aware question answering  
+- **Tech**: Electron.js, Python, NLP, LangChain  
 
 ### 💰 [ExpensePro - Mobile Expense Tracker](https://github.com/taghifarah02/ExpensePro)
-Flutter-based expense management application
-- 📱 Cross-platform mobile app (iOS/Android)
-- 💾 Local database with SQLite
-- **Tech**: Flutter, Dart, SQLite
+Flutter-based expense management application  
+- 📱 Cross-platform mobile app (iOS/Android)  
+- 💾 Local database with SQLite  
+- **Tech**: Flutter, Dart, SQLite  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taghifarah02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -64,18 +65,18 @@ Flutter-based expense management application
 
 ---
 
-## 🎓 Education
+## 🎓 Education  
 
 **AI Engineering Degree** | ENIAD, Berkane | 2024 - Present  
-**Bachelor's in Mathematics & Computer Science** | Faculty of Sciences, Tetouan | 2020 - 2024
+**Bachelor's in Mathematics & Computer Science** | Faculty of Sciences, Tetouan | 2020 - 2024  
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taghifarah)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farahtaghi02@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taghifarah02)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taghifarah)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farahtaghi02@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taghifarah02)  
 
 ---
 

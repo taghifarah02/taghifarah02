@@ -6,7 +6,7 @@
 
 🎓 **AI Engineering Student** @ ENIAD (École Nationale de l'Intelligence Artificielle et du Digital)  
 🔬 Passionate about **Machine Learning, Deep Learning & Computer Vision**  
-🚗 Currently working on **ADAS systems** and **RAG-based intelligent tutoring**
+🚗 Currently working on **RAG-based intelligent tutoring**
 
 ---
 
